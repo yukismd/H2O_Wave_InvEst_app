@@ -1,0 +1,23 @@
+# ignore jupyter notebook backup folders
+.ipynb_checkpoints
+
+# ignore linux background log file
+nohup.out
+
+# mac files
+.DS_Store
+
+# ms power point files
+*.pptx
+
+# python lib files
+*.whl
+
+# unnecessary files in wave app dir
+wave_app/env_wave0210
+wave_app/__pycache__
+wave_app/tmp
+wave_app/dai_py_scoring/__pycache__
+
+# models and data under models
+models
