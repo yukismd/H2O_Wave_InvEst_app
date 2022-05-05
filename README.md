@@ -8,7 +8,7 @@
 
 [wave_app](./wave_app) : Inverseestimation App file.
 - inv_est_app.py: Application program
-- tmp_** files (tmp_convergence.png, tmp_pred.csv, tmp_hist_data.csv, tmp_res.csv) are temporart files created during inv_est_app.py process.
+- tmp_** files (tmp_convergence.png, tmp_pred.csv, tmp_hist_data.csv, tmp_res.csv) are temporary files created during inv_est_app.py process.
 
 ***
 
