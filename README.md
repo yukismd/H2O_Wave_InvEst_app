@@ -2,7 +2,7 @@
 
 ***
 
-[notebook](./notebook) : Test of GPyOpt with Driverless AI  
+[notebook](./notebook) : Test code of GPyOpt with Driverless AI  
 
 ***
 
