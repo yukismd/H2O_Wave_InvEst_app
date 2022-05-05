@@ -13,3 +13,7 @@
 ***
 
 [Document](./InverseEstimationApp_v220505.pdf)
+
+***
+
+If you need to know how to run Wave app, visit [Wave Tutorial](https://github.com/yukismd/H2O_Wave_Tutorial).
