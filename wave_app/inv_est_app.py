@@ -4,6 +4,10 @@ Inverse Optimization App. Find X minimizing/maximizing y.
 reference:
 - GPyOpt API : https://gpyopt.readthedocs.io/en/latest/index.html
 
+Tested versions:
+- h2o_wave : 0.21.0
+- driverlessai :  1.10.1.3
+
 Not yet impremented (todo)
 - Constraint
 - Choose X data type. 'continuous' or 'discrete'
