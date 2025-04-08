@@ -8,13 +8,14 @@ nohup.out
 .DS_Store
 
 # ms power point files
-*.pptx
+#*.pptx
 
 # python lib files
 *.whl
 
 # unnecessary files in wave app dir
 wave_app/env_wave0210
+wave_app/env_wave0231
 wave_app/__pycache__
 wave_app/tmp
 wave_app/dai_py_scoring/__pycache__
